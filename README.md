@@ -1,12 +1,12 @@
 <h1>Malaria-Bounding-Boxes</h1>
 
-<h2>Business/Real World Problem</h2>
+<h2>Business/Real World Problem-</h2>
 <h3>Problem Statement: </h3>
 Malaria is a disease caused by Plasmodium parasites that remains a major threat in global health, affecting 200 million people and causing 400,000 deaths a year. The main species of malaria that affect humans are Plasmodium falciparum and Plasmodium vivax. For malaria as well as other microbial infections, manual inspection of thick and thin blood smears by trained microscopists remains the gold standard for parasite detection and stage determination because of its low reagent and instrument cost and high flexibility. Despite manual inspection being extremely low throughput and susceptible to human bias, automatic counting software remains largely unused because of the wide range of variations in brightfield microscopy images. However, a robust automatic counting and cell classification solution would provide enormous benefits due to faster and more accurate quantitative results without human variability; researchers and medical professionals could better characterize stage-specific drug targets and better quantify patient reactions to drugs.
 
 The data consists of two classes of uninfected cells (RBCs and leukocytes) and four classes of infected cells (gametocytes, rings, trophozoites, and schizonts).Annotators were permitted to mark some cells as difficult if not clearly in one of the cell classes.
 
-<h2> Source/Useful links </h2>
+<h2> Source/Useful links- </h2>
 The Dataset can be downloaded from-
 
 1-Data Source: https://www.kaggle.com/kmader/malaria-bounding-boxes
